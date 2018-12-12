@@ -129,8 +129,12 @@
   <ItemGroup>
     <Text Include="Apology_W.txt" />
     <Text Include="ModestProposal_W.txt" />
+    <Text Include="ModestProposal_W_Concordance.txt" />
     <Text Include="ShortHistory_W.txt" />
+    <Text Include="Apology_W_Concordance.txt" />
+    <Text Include="ShortHistory_W_Concordance.txt" />
     <Text Include="WizardOfOz_W.txt" />
+    <Text Include="WizardOfOz_W_Concordance.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

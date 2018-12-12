@@ -1,5 +1,7 @@
 ﻿  Concordance.cpp
   Main.cpp
-c:\users\grayson\source\repos\graysonbeam_homework8_finalrendition\graysonbeam_homework8_finalrendition\main.cpp(41): warning C4018: '<=': signed/unsigned mismatch
+c:\users\grayson\source\repos\graysonbeam_homework8_finalrendition\graysonbeam_homework8_finalrendition\main.cpp(78): warning C4018: '<=': signed/unsigned mismatch
+c:\users\grayson\source\repos\graysonbeam_homework8_finalrendition\graysonbeam_homework8_finalrendition\main.cpp(94): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\grayson\source\repos\graysonbeam_homework8_finalrendition\graysonbeam_homework8_finalrendition\main.cpp(94): warning C4309: '=': truncation of constant value
   Generating Code...
   GraysonBeam_Homework8_FinalRendition.vcxproj -> C:\Users\Grayson\source\repos\GraysonBeam_Homework8_FinalRendition\Debug\GraysonBeam_Homework8_FinalRendition.exe

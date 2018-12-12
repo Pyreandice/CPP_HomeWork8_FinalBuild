@@ -1,6 +1,7 @@
 // Author : Grayson Beam
 // This file contains the 'main' function. Program execution begins and ends there.
 
+#include <cctype>
 #include <cstdlib>
 #include <fstream>
 #include <iostream>
@@ -17,6 +18,8 @@ using namespace std;
 
 const int ResouceSize = 4;
 const string Resouce[ResouceSize] = { "Apology_W.txt", "ModestProposal_W.txt", "ShortHistory_W.txt", "WizardOfOz_W.txt" };
+const string PrintFile[ResouceSize] = { "Apology_W_Concordance.txt", "ModestProposal_W_Concordance.txt",
+										"ShortHistory_W_Concordance.txt", "WizardOfOz_W_Concordance.txt" };
 
 //bool invalidChar(char m)
 //{
@@ -26,6 +29,40 @@ const string Resouce[ResouceSize] = { "Apology_W.txt", "ModestProposal_W.txt", "
 //void stripUnicode(string &temp)
 //{
 //	temp.erase(remove_if(temp.begin(), temp.end(), invalidChar), temp.end());
+//}
+
+//// Create the set with ALL ASCII and UNICODE removed.
+//set<Words> NoUniPunct(set<Words> WordsSet, string d)
+//{
+//	char temp = ' ';
+//	set<Words> RemovedSet = WordsSet;
+//	for (auto x : RemovedSet)
+//	{
+//		// Iterate over the current word to serch for non ascii characters.
+//		for (int t = 0; t <= d.length(); t++)
+//		{
+//			// Temp is equal to the current character at w[t].
+//			temp = d[t];
+//			// If the current character is on the ascii table.
+//			if (temp >= 0 && temp < 128)
+//			{
+//				// Set temp to equal an empty character again.
+//				temp = ' ';
+//				//tolower(w[t]);
+//
+//			}
+//			else
+//			{
+//				// Erase the character from the word.
+//				//w.erase(temp);
+//				d[t] = '-**';
+//				// Set temp to equal an empty character again.
+//				temp = ' ';
+//			}
+//			cout << d[t] << endl;
+//		}
+//	}
+//	return RemovedSet;
 //}
 
 string RemovePunctuationLoop(string w)
@@ -47,14 +84,18 @@ string RemovePunctuationLoop(string w)
 				{
 					// Set temp to equal an empty character again.
 					temp = ' ';
+					//tolower(w[t]);
+					
 				}
 				else 
 				{
 					// Erase the character from the word.
-					w.erase(temp);
+					//w.erase(temp);
+					w[t] = '-**';
 					// Set temp to equal an empty character again.
 					temp = ' ';
 				}
+				cout << w[t] << endl;
 			}
 			// If the current word contains punctuation.
 			if (ispunct(w[x]))
@@ -148,8 +189,10 @@ set<Words> Counter(set<Words> WordsSet, int userOption)
 	string lineCounter = "";
 	string tempString = "";
 	char delem = ' ';
+	string printHere = PrintFile[ResouceSize];
 	//vector<string> textBook = VecWords(userOption);
 	ifstream fin;
+	ofstream fout (printHere);
 	fin.open(Resouce[userOption]);
 
 	//// Lewis way of doing things
@@ -229,13 +272,14 @@ set<Words> Counter(set<Words> WordsSet, int userOption)
 		// Set totalCounter = to 0.
 		totalCounter = 0;
 	}
+	fin.close();
 	// Iterate over the new set.
 	for (auto x : TempSet)
 	{
 		// Print the new set to the console for visual conformation of method execution.
-		cout << x << endl;
+		//cout << x << endl;
+		fout << x << endl;
 	}
-	fin.close();
 	// Return the set with totalCounter, all the words int the file, and the list of line counts.
 	return TempSet;
 }
@@ -243,8 +287,10 @@ set<Words> Counter(set<Words> WordsSet, int userOption)
 set<Words> ReadFile()
 {
 	set<Words> WordsSet;
+	const int kLineLength = 1024;
+	const char kNewLineChar = '\n';
 	string tempString = "";
-	int userChoice = 0;
+	int userChoice;
 	Words buff;
 	string buff1 = "";
 	string buff2 = "";
@@ -254,6 +300,13 @@ set<Words> ReadFile()
 	cout << "Please enter the number for the items you would like to analyze..." << endl;
 	cout << "0. Apology | 1. ModestProposal | 2. ShortHistory | 3. WizardOfOz" << endl; // ShortHistory.txt throws out of range error for some reason.
 	cin >> userChoice;
+	if (cin.fail())
+	{
+		cin.clear();
+		cin.ignore(kLineLength, kNewLineChar);
+		cout << "Error: Selection not valid. Please Try again entering a value between 0 and 3..." << endl;
+		cin >> userChoice;
+	}
 	fin.open(Resouce[userChoice]);
 	cout << "Now opening " << Resouce[userChoice] << "...." << endl;
 	// Make vector for lewis way of doing things
@@ -277,6 +330,7 @@ set<Words> ReadFile()
 		//cout << buff << endl;
 	}
 	fin.close();
+	
 	// Call the counter function for line and word counts.
 	return Counter(WordsSet, userChoice);
 }

@@ -1,47 +1,21 @@
 The Project Gutenberg EBook of Apology, by Plato
-
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
-
-
 Title: Apology
-       Also known as "The Death of Socrates"
-
+Also known as "The Death of Socrates"
 Author: Plato
-
 Translator: Benjamin Jowett
-
 Posting Date: November 3, 2008 [EBook #1656]
 Release Date: February, 1999
-
 Language: English
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK APOLOGY ***
-
-
-
-
 Produced by Sue Asscher
-
-
-
-
-
 APOLOGY
-
 By Plato
-
-
 Translated by Benjamin Jowett
-
-
-
-
 INTRODUCTION.
-
 In what relation the Apology of Plato stands to the real defence of
 Socrates, there are no means of determining. It certainly agrees in
 tone and character with the description of Xenophon, who says in the
@@ -68,7 +42,6 @@ out as if by accident in the course of the defence. The conversational
 manner, the seeming want of arrangement, the ironical simplicity, are
 found to result in a perfect work of art, which is the portrait of
 Socrates.
-
 Yet some of the topics may have been actually used by Socrates; and
 the recollection of his very words may have rung in the ears of his
 disciple. The Apology of Plato may be compared generally with those
@@ -103,7 +76,6 @@ On the whole we arrive at the conclusion that the Apology is true to the
 character of Socrates, but we cannot show that any single sentence in it
 was actually spoken by him. It breathes the spirit of Socrates, but has
 been cast anew in the mould of Plato.
-
 There is not much in the other Dialogues which can be compared with the
 Apology. The same recollection of his master may have been present
 to the mind of Plato when depicting the sufferings of the Just in the
@@ -119,12 +91,10 @@ are contained is manifestly spurious. The statements of the Memorabilia
 respecting the trial and death of Socrates agree generally with Plato;
 but they have lost the flavour of Socratic irony in the narrative of
 Xenophon.
-
 The Apology or Platonic defence of Socrates is divided into three
 parts: 1st. The defence properly so called; 2nd. The shorter address in
 mitigation of the penalty; 3rd. The last words of prophetic rebuke and
 exhortation.
-
 The first part commences with an apology for his colloquial style;
 he is, as he has always been, the enemy of rhetoric, and knows of
 no rhetoric but truth; he will not falsify his character by making a
@@ -142,7 +112,6 @@ whom the state receives, but introduces other new divinities.' These
 last words appear to have been the actual indictment (compare Xen.
 Mem.); and the previous formula, which is a summary of public opinion,
 assumes the same legal style.
-
 The answer begins by clearing up a confusion. In the representations
 of the Comic poets, and in the opinion of the multitude, he had been
 identified with the teachers of physical science and with the Sophists.
@@ -158,7 +127,6 @@ teach. But he commends Evenus for teaching virtue at such a 'moderate'
 rate as five minae. Something of the 'accustomed irony,' which may
 perhaps be expected to sleep in the ear of the multitude, is lurking
 here.
-
 He then goes on to explain the reason why he is in such an evil name.
 That had arisen out of a peculiar mission which he had taken upon
 himself. The enthusiastic Chaerephon (probably in anticipation of the
@@ -183,7 +151,6 @@ themselves by calling him a villainous corrupter of youth, and by
 repeating the commonplaces about atheism and materialism and sophistry,
 which are the stock-accusations against all philosophers when there is
 nothing else to be said of them.
-
 The second accusation he meets by interrogating Meletus, who is present
 and can be interrogated. 'If he is the corrupter, who is the improver of
 the citizens?' (Compare Meno.) 'All men everywhere.' But how absurd, how
@@ -191,7 +158,6 @@ contrary to analogy is this! How inconceivable too, that he should make
 the citizens worse when he has to live with them. This surely cannot be
 intentional; and if unintentional, he ought to have been instructed by
 Meletus, and not accused in the court.
-
 But there is another part of the indictment which says that he teaches
 men not to receive the gods whom the city receives, and has other new
 gods. 'Is that the way in which he is supposed to corrupt the youth?'
@@ -205,7 +171,6 @@ undertakes to show that Meletus (rather unjustifiably) has been
 compounding a riddle in this part of the indictment: 'There are no gods,
 but Socrates believes in the existence of the sons of gods, which is
 absurd.'
-
 Leaving Meletus, who has had enough words spent upon him, he returns to
 the original accusation. The question may be asked, Why will he persist
 in following a profession which leads him to death? Why?--because he
@@ -220,7 +185,6 @@ necessity of virtue and improvement; and if they refuse to listen to him
 he will still persevere and reprove them. This is his way of corrupting
 the youth, which he will not cease to follow in obedience to the god,
 even if a thousand deaths await him.
-
 He is desirous that they should let him live--not for his own sake, but
 for theirs; because he is their heaven-sent friend (and they will never
 have such another), or, as he may be ludicrously described, he is the
@@ -232,7 +196,6 @@ lived, and could therefore have done no good. Twice in public matters
 he has risked his life for the sake of justice--once at the trial of
 the generals; and again in resistance to the tyrannical commands of the
 Thirty.
-
 But, though not a public man, he has passed his days in instructing
 the citizens without fee or reward--this was his mission. Whether his
 disciples have turned out well or ill, he cannot justly be charged with
@@ -246,7 +209,6 @@ and brothers all appear in court (including 'this' Plato), to witness
 on his behalf; and if their relatives are corrupted, at least they
 are uncorrupted; 'and they are my witnesses. For they know that I am
 speaking the truth, and that Meletus is lying.'
-
 This is about all that he has to say. He will not entreat the judges to
 spare his life; neither will he present a spectacle of weeping children,
 although he, too, is not made of 'rock or oak.' Some of the judges
@@ -256,7 +218,6 @@ their example. But he feels that such conduct brings discredit on the
 name of Athens: he feels too, that the judge has sworn not to give away
 justice; and he cannot be guilty of the impiety of asking the judge to
 break his oath, when he is himself being tried for impiety.
-
 As he expected, and probably intended, he is convicted. And now the tone
 of the speech, instead of being more conciliatory, becomes more
 lofty and commanding. Anytus proposes death as the penalty: and what
@@ -269,9 +230,7 @@ certain that imprisonment is an evil, exile is an evil. Loss of money
 might be an evil, but then he has none to give; perhaps he can make up
 a mina. Let that be the penalty, or, if his friends wish, thirty minae;
 for which they will be excellent securities.
-
 (He is condemned to death.)
-
 He is an old man already, and the Athenians will gain nothing but
 disgrace by depriving him of a few years of life. Perhaps he could have
 escaped, if he had chosen to throw down his arms and entreat for his
@@ -279,13 +238,11 @@ life. But he does not at all repent of the manner of his defence; he
 would rather die in his own fashion than live in theirs. For the penalty
 of unrighteousness is swifter than death; that penalty has already
 overtaken his accusers as death will soon overtake him.
-
 And now, as one who is about to die, he will prophesy to them. They have
 put him to death in order to escape the necessity of giving an account
 of their lives. But his death 'will be the seed' of many disciples who
 will convince them of their evil ways, and will come forth to reprove
 them in harsher terms, because they are younger and more inconsiderate.
-
 He would like to say a few words, while there is time, to those who
 would have acquitted him. He wishes them to know that the divine sign
 never interrupted him in the course of his defence; the reason of which,
@@ -295,18 +252,14 @@ a journey to another world in which the souls of the dead are gathered
 together, and in which there may be a hope of seeing the heroes of
 old--in which, too, there are just judges; and as all are immortal,
 there can be no fear of any one suffering death for his opinions.
-
 Nothing evil can happen to the good man either in life or death, and his
 own death has been permitted by the gods, because it was better for him
 to depart; and therefore he forgives his judges because they have done
 him no harm, although they never meant to do him any good.
-
 He has a last request to make to them--that they will trouble his sons
 as he has troubled them, if they appear to prefer riches to virtue, or
 to think themselves something when they are nothing.
-
 *****
-
 'Few persons will be found to wish that Socrates should have defended
 himself otherwise,'--if, as we must add, his defence was that with which
 Plato has provided him. But leaving this question, which does not admit
@@ -317,7 +270,6 @@ as employing sophistries; (2) as designedly irritating the judges? Or
 are these sophistries to be regarded as belonging to the age in which
 he lived and to his personal character, and this apparent haughtiness as
 flowing from the natural elevation of his position?
-
 For example, when he says that it is absurd to suppose that one man is
 the corrupter and all the rest of the world the improvers of the youth;
 or, when he argues that he never could have corrupted the men with whom
@@ -329,7 +281,6 @@ dialectician. Perhaps he regarded these answers as good enough for his
 accuser, of whom he makes very light. Also there is a touch of irony
 in them, which takes them out of the category of sophistry. (Compare
 Euthyph.)
-
 That the manner in which he defends himself about the lives of his
 disciples is not satisfactory, can hardly be denied. Fresh in the memory
 of the Athenians, and detestable as they deserved to be to the newly
@@ -341,7 +292,6 @@ is doubtless sound: that his teaching had nothing to do with their evil
 lives. Here, then, the sophistry is rather in form than in substance,
 though we might desire that to such a serious charge Socrates had given
 a more serious answer.
-
 Truly characteristic of Socrates is another point in his answer, which
 may also be regarded as sophistical. He says that 'if he has corrupted
 the youth, he must have corrupted them involuntarily.' But if, as
@@ -353,7 +303,6 @@ practically, but may be true in some ideal or transcendental sense. The
 commonplace reply, that if he had been guilty of corrupting the youth
 their relations would surely have witnessed against him, with which he
 concludes this part of his defence, is more satisfactory.
-
 Again, when Socrates argues that he must believe in the gods because he
 believes in the sons of gods, we must remember that this is a refutation
 not of the original indictment, which is consistent enough--'Socrates
@@ -378,7 +327,6 @@ would have appeared to him both uncertain and unimportant in comparison
 of the duty of self-examination, and of those principles of truth
 and right which he deemed to be the foundation of religion. (Compare
 Phaedr.; Euthyph.; Republic.)
-
 The second question, whether Plato meant to represent Socrates as
 braving or irritating his judges, must also be answered in the negative.
 His irony, his superiority, his audacity, 'regarding not the person of
@@ -431,7 +379,6 @@ Anaxagoras, who had disappointed him in his hopes of learning about mind
 and nature, he shows a less kindly feeling, which is also the feeling
 of Plato in other passages (Laws). But Anaxagoras had been dead thirty
 years, and was beyond the reach of persecution.
-
 It has been remarked that the prophecy of a new generation of teachers
 who would rebuke and exhort the Athenian people in harsher and more
 violent terms was, as far as we know, never fulfilled. No inference
@@ -441,7 +388,6 @@ aspiration of the first martyr of philosophy, that he would leave behind
 him many followers, accompanied by the not unnatural feeling that they
 would be fiercer and more inconsiderate in their words when emancipated
 from his control.
-
 The above remarks must be understood as applying with any degree of
 certainty to the Platonic Socrates only. For, although these or similar
 words may have been spoken by Socrates himself, we cannot exclude the
@@ -462,13 +408,7 @@ does not prevent Plato from introducing them together in the Symposium
 engaged in friendly intercourse. Nor is there any trace in the Dialogues
 of an attempt to make Anytus or Meletus personally odious in the eyes of
 the Athenian public.
-
-
-
-
 APOLOGY
-
-
 How you, O Athenians, have been affected by my accusers, I cannot tell;
 but I know that they almost made me forget who I was--so persuasively
 did they speak; and yet they have hardly uttered a word of truth. But
@@ -500,7 +440,6 @@ fashion of his country:--Am I making an unfair request of you? Never
 mind the manner, which may or may not be good; but think only of the
 truth of my words, and give heed to that: let the speaker speak truly
 and the judge decide justly.
-
 And first, I have to reply to the older charges and to my first
 accusers, and then I will go on to the later ones. For of old I have had
 many accusers, who have accused me falsely to you during many years;
@@ -526,14 +465,12 @@ then to assume with me, as I was saying, that my opponents are of two
 kinds; one recent, the other ancient: and I hope that you will see the
 propriety of my answering the latter first, for these accusations you
 heard long before the others, and much oftener.
-
 Well, then, I must make my defence, and endeavour to clear away in a
 short time, a slander which has lasted a long time. May I succeed, if to
 succeed be for my good and yours, or likely to avail me in my cause!
 The task is not an easy one; I quite understand the nature of it. And so
 leaving the event with God, in obedience to the law I will now make my
 defence.
-
 I will begin at the beginning, and ask what is the accusation which has
 given rise to the slander of me, and in fact has encouraged Meletus to
 proof this charge against me. Well, what do the slanderers say? They
@@ -555,7 +492,6 @@ me, and tell your neighbours whether any of you have ever known me hold
 forth in few words or in many upon such matters...You hear their answer.
 And from what they say of this part of the charge you will be able to
 judge of the truth of the rest.
-
 As little foundation is there for the report that I am a teacher, and
 take money; this accusation has no more truth in it than the other.
 Although, if a man were really able to instruct mankind, to receive
@@ -581,7 +517,6 @@ charge is five minae.' Happy is Evenus, I said to myself, if he really
 has this wisdom, and teaches at such a moderate charge. Had I the same,
 I should have been very proud and conceited; but the truth is that I
 have no knowledge of the kind.
-
 I dare say, Athenians, that some one among you will reply, 'Yes,
 Socrates, but what is the origin of these accusations which are brought
 against you; there must have been something strange which you have been
@@ -611,7 +546,6 @@ you not to interrupt--he asked the oracle to tell him whether anyone was
 wiser than I was, and the Pythian prophetess answered, that there was no
 man wiser. Chaerephon is dead himself; but his brother, who is in court,
 will confirm the truth of what I am saying.
-
 Why do I mention this? Because I am going to explain to you why I have
 such an evil name. When I heard the answer, I said to myself, What can
 the god mean? and what is the interpretation of his riddle? for I know
@@ -637,7 +571,6 @@ latter particular, then, I seem to have slightly the advantage of him.
 Then I went to another who had still higher pretensions to wisdom, and
 my conclusion was exactly the same. Whereupon I made another enemy of
 him, and of many others besides him.
-
 Then I went to one man after another, being not unconscious of the
 enmity which I provoked, and I lamented and feared this: but necessity
 was laid upon me,--the word of God, I thought, ought to be considered
@@ -665,7 +598,6 @@ poetry they believed themselves to be the wisest of men in other things
 in which they were not wise. So I departed, conceiving myself to
 be superior to them for the same reason that I was superior to the
 politicians.
-
 At last I went to the artisans. I was conscious that I knew nothing at
 all, as I may say, and I was sure that they knew many fine things; and
 here I was not mistaken, for they did know many things of which I
@@ -677,7 +609,6 @@ wisdom; and therefore I asked myself on behalf of the oracle, whether
 I would like to be as I was, neither having their knowledge nor their
 ignorance, or like them in both; and I made answer to myself and to the
 oracle that I was better off as I was.
-
 This inquisition has led to my having many enemies of the worst and most
 dangerous kind, and has given occasion also to many calumnies. And I
 am called wise, for my hearers always imagine that I myself possess
@@ -693,7 +624,6 @@ wise, then in vindication of the oracle I show him that he is not wise;
 and my occupation quite absorbs me, and I have no time to give either to
 any public matter of interest or to any concern of my own, but I am in
 utter poverty by reason of my devotion to the god.
-
 There is another thing:--young men of the richer classes, who have not
 much to do, come about me of their own accord; they like to hear the
 pretenders examined, and they often imitate me, and proceed to examine
@@ -721,7 +651,6 @@ yet, I know that my plainness of speech makes them hate me, and what is
 their hatred but a proof that I am speaking the truth?--Hence has arisen
 the prejudice against me; and this is the reason of it, as you will find
 out either in this or in any future enquiry.
-
 I have said enough in my defence against the first class of my accusers;
 I turn to the second class. They are headed by Meletus, that good man
 and true lover of his country, as he calls himself. Against these, too,
@@ -735,12 +664,9 @@ evil, in that he pretends to be in earnest when he is only in jest, and
 is so eager to bring men to trial from a pretended zeal and interest
 about matters in which he really never had the smallest interest. And
 the truth of this I will endeavour to prove to you.
-
 Come hither, Meletus, and let me ask a question of you. You think a
 great deal about the improvement of youth?
-
 Yes, I do.
-
 Tell the judges, then, who is their improver; for you must know, as you
 have taken the pains to discover their corrupter, and are citing and
 accusing me before them. Speak, then, and tell the judges who their
@@ -748,42 +674,26 @@ improver is.--Observe, Meletus, that you are silent, and have nothing to
 say. But is not this rather disgraceful, and a very considerable proof
 of what I was saying, that you have no interest in the matter? Speak up,
 friend, and tell us who their improver is.
-
 The laws.
-
 But that, my good sir, is not my meaning. I want to know who the person
 is, who, in the first place, knows the laws.
-
 The judges, Socrates, who are present in court.
-
 What, do you mean to say, Meletus, that they are able to instruct and
 improve youth?
-
 Certainly they are.
-
 What, all of them, or some only and not others?
-
 All of them.
-
 By the goddess Here, that is good news! There are plenty of improvers,
 then. And what do you say of the audience,--do they improve them?
-
 Yes, they do.
-
 And the senators?
-
 Yes, the senators improve them.
-
 But perhaps the members of the assembly corrupt them?--or do they too
 improve them?
-
 They improve them.
-
 Then every Athenian improves and elevates them; all with the exception
 of myself; and I alone am their corrupter? Is that what you affirm?
-
 That is what I stoutly affirm.
-
 I am very unfortunate if you are right. But suppose I ask you a
 question: How about horses? Does one man do them harm and all the world
 good? Is not the exact opposite the truth? One man is able to do them
@@ -796,25 +706,18 @@ all the rest of the world were their improvers. But you, Meletus, have
 sufficiently shown that you never had a thought about the young: your
 carelessness is seen in your not caring about the very things which you
 bring against me.
-
 And now, Meletus, I will ask you another question--by Zeus I will:
 Which is better, to live among bad citizens, or among good ones? Answer,
 friend, I say; the question is one which may be easily answered. Do not
 the good do their neighbours good, and the bad do them evil?
-
 Certainly.
-
 And is there anyone who would rather be injured than benefited by those
 who live with him? Answer, my good friend, the law requires you to
 answer--does any one like to be injured?
-
 Certainly not.
-
 And when you accuse me of corrupting and deteriorating the youth, do you
 allege that I corrupt them intentionally or unintentionally?
-
 Intentionally, I say.
-
 But you have just admitted that the good do their neighbours good, and
 the evil do them evil. Now, is that a truth which your superior wisdom
 has recognized thus early in life, and am I, at my age, in such darkness
@@ -830,7 +733,6 @@ better advised, I should have left off doing what I only did
 unintentionally--no doubt I should; but you would have nothing to say to
 me and refused to teach me. And now you bring me up in this court, which
 is a place not of instruction, but of punishment.
-
 It will be very clear to you, Athenians, as I was saying, that Meletus
 has no care at all, great or small, about the matter. But still I should
 like to know, Meletus, in what I am affirmed to corrupt the young. I
@@ -838,9 +740,7 @@ suppose you mean, as I infer from your indictment, that I teach them not
 to acknowledge the gods which the state acknowledges, but some other new
 divinities or spiritual agencies in their stead. These are the lessons
 by which I corrupt the youth, as you say.
-
 Yes, that I say emphatically.
-
 Then, by the gods, Meletus, of whom we are speaking, tell me and the
 court, in somewhat plainer terms, what you mean! for I do not as yet
 understand whether you affirm that I teach other men to acknowledge
@@ -849,16 +749,12 @@ atheist--this you do not lay to my charge,--but only you say that they
 are not the same gods which the city recognizes--the charge is that they
 are different gods. Or, do you mean that I am an atheist simply, and a
 teacher of atheism?
-
 I mean the latter--that you are a complete atheist.
-
 What an extraordinary statement! Why do you think so, Meletus? Do you
 mean that I do not believe in the godhead of the sun or moon, like other
 men?
-
 I assure you, judges, that he does not: for he says that the sun is
 stone, and the moon earth.
-
 Friend Meletus, you think that you are accusing Anaxagoras: and you have
 but a bad opinion of the judges, if you fancy them illiterate to such
 a degree as not to know that these doctrines are found in the books of
@@ -870,9 +766,7 @@ of Anaxagoras, as well as to other dramatic poets.) (price of admission
 one drachma at the most); and they might pay their money, and laugh at
 Socrates if he pretends to father these extraordinary views. And so,
 Meletus, you really think that I do not believe in any god?
-
 I swear by Zeus that you believe absolutely in none at all.
-
 Nobody will believe you, Meletus, and I am pretty sure that you do not
 believe yourself. I cannot help thinking, men of Athens, that Meletus
 is reckless and impudent, and that he has written this indictment in a
@@ -883,12 +777,10 @@ shall be able to deceive him and the rest of them. For he certainly does
 appear to me to contradict himself in the indictment as much as if he
 said that Socrates is guilty of not believing in the gods, and yet of
 believing in them--but this is not like a person who is in earnest.
-
 I should like you, O men of Athens, to join me in examining what I
 conceive to be his inconsistency; and do you, Meletus, answer. And
 I must remind the audience of my request that they would not make a
 disturbance if I speak in my accustomed manner:
-
 Did ever man, Meletus, believe in the existence of human things, and not
 of human beings?...I wish, men of Athens, that he would answer, and not
 be always trying to get up an interruption. Did ever any man believe
@@ -897,9 +789,7 @@ flute-players? No, my friend; I will answer to you and to the court, as
 you refuse to answer for yourself. There is no man who ever did. But now
 please to answer the next question: Can a man believe in spiritual and
 divine agencies, and not in spirits or demigods?
-
 He cannot.
-
 How lucky I am to have extracted that answer, by the assistance of the
 court! But then you swear in the indictment that I teach and believe in
 divine or spiritual agencies (new or old, no matter for that); at any
@@ -908,9 +798,7 @@ affidavit; and yet if I believe in divine beings, how can I help
 believing in spirits or demigods;--must I not? To be sure I must; and
 therefore I may assume that your silence gives consent. Now what are
 spirits or demigods? Are they not either gods or the sons of gods?
-
 Certainly they are.
-
 But this is what I call the facetious riddle invented by you: the
 demigods or spirits are gods, and you say first that I do not believe in
 gods, and then again that I do believe in gods; that is, if I believe in
@@ -924,7 +812,6 @@ the indictment because you had nothing real of which to accuse me. But
 no one who has a particle of understanding will ever be convinced by you
 that the same men can believe in divine and superhuman things, and yet
 not believe that there are gods and demigods and heroes.
-
 I have said enough in answer to the charge of Meletus: any elaborate
 defence is unnecessary, but I know only too well how many are the
 enmities which I have incurred, and this is what will be my destruction
@@ -932,7 +819,6 @@ if I am destroyed;--not Meletus, nor yet Anytus, but the envy and
 detraction of the world, which has been the death of many good men, and
 will probably be the death of many more; there is no danger of my being
 the last of them.
-
 Some one will say: And are you not ashamed, Socrates, of a course of
 life which is likely to bring you to an untimely end? To him I may
 fairly answer: There you are mistaken: a man who is good for anything
@@ -954,7 +840,6 @@ the place which he has chosen or that in which he has been placed by a
 commander, there he ought to remain in the hour of danger; he should
 not think of death or of anything but of disgrace. And this, O men of
 Athens, is a true saying.
-
 Strange, indeed, would be my conduct, O men of Athens, if I who, when I
 was ordered by the generals whom you chose to command me at Potidaea
 and Amphipolis and Delium, remained where they placed me, like any other
@@ -1011,7 +896,6 @@ Wherefore, O men of Athens, I say to you, do as Anytus bids or not
 as Anytus bids, and either acquit me or not; but whichever you do,
 understand that I shall never alter my ways, not even if I have to die
 many times.
-
 Men of Athens, do not interrupt, but hear me; there was an understanding
 between us that you should hear me to the end: I have something more to
 say, at which you may be inclined to cry out; but I believe that to hear
@@ -1025,7 +909,6 @@ he may imagine, and others may imagine, that he is inflicting a great
 injury upon him: but there I do not agree. For the evil of doing as
 he is doing--the evil of unjustly taking away the life of another--is
 greater far.
-
 And now, Athenians, I am not going to argue for my own sake, as you may
 think, but for yours, that you may not sin against the God by condemning
 me, who am his gift to you. For if you kill me you will not easily find
@@ -1051,7 +934,6 @@ been some sense in my doing so; but now, as you will perceive, not even
 the impudence of my accusers dares to say that I have ever exacted
 or sought pay of any one; of that they have no witness. And I have a
 sufficient witness to the truth of what I say--my poverty.
-
 Some one may wonder why I go about in private giving advice and busying
 myself with the concerns of others, but do not venture to come forward
 in public and advise the state. I will tell you why. You have heard me
@@ -1068,7 +950,6 @@ with you or any other multitude, honestly striving against the many
 lawless and unrighteous deeds which are done in a state, will save his
 life; he who will fight for the right, if he would live even for a brief
 space, must have a private station and not a public one.
-
 I can give you convincing evidence of what I say, not words only, but
 what you value far more--actions. Let me relate to you a passage of my
 own life which will prove to you that I should never have yielded to
@@ -1098,7 +979,6 @@ wrong; and when we came out of the rotunda the other four went to
 Salamis and fetched Leon, but I went quietly home. For which I might
 have lost my life, had not the power of the Thirty shortly afterwards
 come to an end. And many will witness to my words.
-
 Now do you really imagine that I could have survived all these years,
 if I had led a public life, supposing that like a good man I had always
 maintained the right and had made justice, as I ought, the first thing?
@@ -1114,7 +994,6 @@ man or a good one, neither result can be justly imputed to me; for I
 never taught or professed to teach him anything. And if any one says
 that he has ever learned or heard anything from me in private which all
 the world has not heard, let me tell you that he is lying.
-
 But I shall be asked, Why do people delight in continually conversing
 with you? I have told you already, Athenians, the whole truth about this
 matter: they like to hear the cross-examination of the pretenders to
@@ -1150,7 +1029,6 @@ for that--but their uncorrupted elder relatives. Why should they too
 support me with their testimony? Why, indeed, except for the sake of
 truth and justice, and because they know that I am speaking the truth,
 and that Meletus is a liar.
-
 Well, Athenians, this and the like of this is all the defence which I
 have to offer. Yet a word more. Perhaps there may be some one who is
 offended at me, when he calls to mind how he himself on a similar, or
@@ -1187,7 +1065,6 @@ a reputation; and if they are done, you ought not to permit them; you
 ought rather to show that you are far more disposed to condemn the man
 who gets up a doleful scene and makes the city ridiculous, than him who
 holds his peace.
-
 But, setting aside the question of public opinion, there seems to be
 something wrong in asking a favour of a judge, and thus procuring an
 acquittal, instead of informing and convincing him. For his duty is,
@@ -1205,9 +1082,7 @@ them. But that is not so--far otherwise. For I do believe that there
 are gods, and in a sense higher than that in which any of my accusers
 believe in them. And to you and to God I commit my cause, to be
 determined by you as is best for you and me.
-
 *****
-
 There are many reasons why I am not grieved, O men of Athens, at the
 vote of condemnation. I expected it, and am only surprised that the
 votes are so nearly equal; for I had thought that the majority against
@@ -1217,7 +1092,6 @@ that I have escaped Meletus. I may say more; for without the assistance
 of Anytus and Lycon, any one may see that he would not have had a fifth
 part of the votes, as the law requires, in which case he would have
 incurred a fine of a thousand drachmae.
-
 And so he proposes death as the penalty. And what shall I propose on my
 part, O men of Athens? Clearly that which is my due. And what is my due?
 What return shall be made to the man who has never had the wit to be
@@ -1242,7 +1116,6 @@ horses or by many. For I am in want, and he has enough; and he only
 gives you the appearance of happiness, and I give you the reality. And
 if I am to estimate the penalty fairly, I should say that maintenance in
 the Prytaneum is the just return.
-
 Perhaps you think that I am braving you in what I am saying now, as in
 what I said before about the tears and prayers. But this is not so. I
 speak rather because I am convinced that I never intentionally wronged
@@ -1271,7 +1144,6 @@ sure that wherever I go, there, as here, the young men will flock to
 me; and if I drive them away, their elders will drive me out at their
 request; and if I let them come, their fathers and friends will drive me
 out for their sakes.
-
 Some one will say: Yes, Socrates, but cannot you hold your tongue, and
 then you may go into a foreign city, and no one will interfere with you?
 Now I have great difficulty in making you understand my answer to this.
@@ -1290,9 +1162,7 @@ Well, perhaps I could afford a mina, and therefore I propose that
 penalty: Plato, Crito, Critobulus, and Apollodorus, my friends here, bid
 me say thirty minae, and they will be the sureties. Let thirty minae be
 the penalty; for which sum they will be ample security to you.
-
 *****
-
 Not much time will be gained, O Athenians, in return for the evil name
 which you will get from the detractors of the city, who will say that
 you killed Socrates, a wise man; for they will call me wise, even
@@ -1325,7 +1195,6 @@ penalty of death,--they too go their ways condemned by the truth
 to suffer the penalty of villainy and wrong; and I must abide by my
 award--let them abide by theirs. I suppose that these things may be
 regarded as fated,--and I think that they are well.
-
 And now, O men who have condemned me, I would fain prophesy to you;
 for I am about to die, and in the hour of death men are gifted with
 prophetic power. And I prophesy to you who are my murderers, that
@@ -1342,7 +1211,6 @@ either possible or honourable; the easiest and the noblest way is not
 to be disabling others, but to be improving yourselves. This is the
 prophecy which I utter before my departure to the judges who have
 condemned me.
-
 Friends, who would have acquitted me, I would like also to talk with you
 about the thing which has come to pass, while the magistrates are busy,
 and before I go to the place at which I must die. Stay then a little,
@@ -1364,7 +1232,6 @@ you. It is an intimation that what has happened to me is a good, and
 that those of us who think that death is an evil are in error. For the
 customary sign would surely have opposed me had I been going to evil and
 not to good.
-
 Let us reflect in another way, and we shall see that there is great
 reason to hope that death is a good; for one of two things--either death
 is a state of nothingness and utter unconsciousness, or, as men say,
@@ -1401,7 +1268,6 @@ and women too! What infinite delight would there be in conversing with
 them and asking them questions! In another world they do not put a man
 to death for asking questions: assuredly not. For besides being happier
 than we are, they will be immortal, if what is said is true.
-
 Wherefore, O judges, be of good cheer about death, and know of a
 certainty, that no evil can happen to a good man, either in life or
 after death. He and his are not neglected by the gods; nor has my own
@@ -1411,7 +1277,6 @@ trouble; wherefore the oracle gave no sign. For which reason, also, I am
 not angry with my condemners, or with my accusers; they have done me no
 harm, although they did not mean to do me any good; and for this I may
 gently blame them.
-
 Still I have a favour to ask of them. When my sons are grown up, I would
 ask you, O my friends, to punish them; and I would have you trouble
 them, as I have troubled you, if they seem to care about riches, or
@@ -1421,27 +1286,16 @@ you, for not caring about that for which they ought to care, and
 thinking that they are something when they are really nothing. And
 if you do this, both I and my sons will have received justice at your
 hands.
-
 The hour of departure has arrived, and we go our ways--I to die, and you
 to live. Which is better God only knows.
-
-
-
-
-
 End of the Project Gutenberg EBook of Apology, by Plato
-
 *** END OF THIS PROJECT GUTENBERG EBOOK APOLOGY ***
-
 ***** This file should be named 1656.txt or 1656.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/6/5/1656/
-
+http://www.gutenberg.org/1/6/5/1656/
 Produced by Sue Asscher
-
 Updated editions will replace the previous one--the old editions
 will be renamed.
-
 Creating the works from public domain print editions means that no
 one owns a United States copyright in these works, so the Foundation
 (and you!) can copy and distribute it in the United States without
@@ -1458,26 +1312,18 @@ research.  They may be modified and printed and given away--you may do
 practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
-
-
-
 *** START: FULL LICENSE ***
-
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.org/license).
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.  A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement.  If you do not agree to abide by all
@@ -1487,8 +1333,7 @@ If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.  B.  "Project Gutenberg" is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement.  There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -1497,8 +1342,8 @@ paragraph 1.C below.  There are a lot of things you can do with Project
 Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.  C.  The Project Gutenberg Literary Archive Foundation ("the 
+Foundation"
 or PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg-tm electronic works.  Nearly all the individual works in the
 collection are in the public domain in the United States.  If an
@@ -1513,8 +1358,7 @@ this agreement for keeping the Project Gutenberg-tm name associated with
 the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
+1.  D.  The copyright laws of the place where you are located also govern
 what you can do with this work.  Copyright laws in most countries are in
 a constant state of change.  If you are outside the United States, check
 the laws of your country in addition to the terms of this agreement
@@ -1523,22 +1367,18 @@ creating derivative works based on this work or any other Project
 Gutenberg-tm work.  The Foundation makes no representations concerning
 the copyright status of any work in any country outside the United
 States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
+1.  E.  Unless you have removed all references to Project Gutenberg:
+1.  E.1.  The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
-
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.  E.2.  If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
@@ -1547,26 +1387,22 @@ with the phrase "Project Gutenberg" associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.  E.9.
+1.  E.3.  If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
 terms imposed by the copyright holder.  Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.  E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.  E.5.  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
+1.  E.6.  You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
@@ -1577,54 +1413,45 @@ copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.  E.7.  Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
+1.  E.8.  You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works provided
 that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+-  You pay a royalty fee of 20% of the gross profits you derive from
+the use of Project Gutenberg-tm works calculated using the method
+you already use to calculate your applicable taxes.  The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation.  Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns.  Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
+-  You provide a full refund of any money paid by a user who notifies
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License.  You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
+-  You provide, in accordance with paragraph 1.F.3, a full refund of any
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
+-  You comply with all other terms of this agreement for free
+distribution of Project Gutenberg-tm works.
+1.  E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
 both the Project Gutenberg Literary Archive Foundation and Michael
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.  F.
+1.  F.1.  Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 public domain works in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
@@ -1634,8 +1461,7 @@ corrupt data, transcription errors, a copyright or other intellectual
 property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.  F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -1648,8 +1474,7 @@ TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.  F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from.  If you
@@ -1661,21 +1486,18 @@ providing it to you may choose to give you a second opportunity to
 receive the work electronically in lieu of a refund.  If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.  F.4.  Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.  F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.  F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
@@ -1685,16 +1507,12 @@ that arise directly or indirectly from any of the following which you do
 or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
 including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
-
 Volunteers and financial support to provide volunteers with the
 assistance they need, is critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
@@ -1704,11 +1522,8 @@ and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
-
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
@@ -1717,7 +1532,6 @@ number is 64-6221541.  Its 501(c)(3) letter is posted at
 http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at
@@ -1725,16 +1539,12 @@ throughout numerous locations.  Its business office is located at
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official
 page at http://pglaf.org
-
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
-
 Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
@@ -1742,7 +1552,6 @@ freely distributed in machine readable form accessible by the widest
 array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
-
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
 States.  Compliance requirements are not uniform and it takes a
@@ -1751,41 +1560,29 @@ with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
 particular state visit http://pglaf.org
-
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
-
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States.  U.S. laws alone swamp our small staff.
-
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
 ways including checks, online payments and credit card donations.
 To donate, please visit: http://pglaf.org/donate
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
-
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the U.S.
 unless a copyright notice is included.  Thus, we do not necessarily
 keep eBooks in compliance with any particular paper edition.
-
-
 Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
+http://www.gutenberg.org
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to

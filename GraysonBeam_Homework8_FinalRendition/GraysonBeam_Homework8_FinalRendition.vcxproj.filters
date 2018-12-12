@@ -34,9 +34,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Apology_W.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
     <Text Include="ModestProposal_W.txt">
       <Filter>Resource Files</Filter>
     </Text>
@@ -44,6 +41,21 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="WizardOfOz_W.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Apology_W_Concordance.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="ModestProposal_W_Concordance.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="ShortHistory_W_Concordance.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="WizardOfOz_W_Concordance.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Apology_W.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
